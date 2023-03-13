@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://tianlang.github.io
+url: 
 date_format: "ordinal"
 title: 学习园地
 subtitle: "寇可往我亦可往"
