@@ -1,6 +1,6 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
+    background: #020f1b;
     color: #fff
 }
 
@@ -27,13 +27,11 @@
     color: #fff
 }
 
-
 @media (max-width:50em) {
-  .home .collapsed .icon-bar {
-    background-color: white;
-  }
-
-  .home .collection-head .collection-header {
-    font-size: 1.25em;
-  }
+    .home .collapsed .icon-bar {
+        background-color: white;
+    }
+    .home .collection-head .collection-header {
+        font-size: 1.25em;
+    }
 }
